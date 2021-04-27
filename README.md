@@ -1,1 +1,1 @@
-vue-study
+Vue를 공부해보는 레포
